@@ -20,6 +20,7 @@ public class Test01 {
 //        copyFile("Julia.jpg", "dir/Juliaaa.jpg");
 
         System.out.println(1|2>>3);
+        System.out.println("Test git");
 
 
     }
