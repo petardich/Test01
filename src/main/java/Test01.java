@@ -21,6 +21,7 @@ public class Test01 {
 
         System.out.println(1|2>>3);
         System.out.println("Test git");
+        System.out.println("Test git 2");
 
 
     }
